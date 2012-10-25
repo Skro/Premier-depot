@@ -8,6 +8,8 @@ public class Eleve {
 		
 	}
 	
+	//ajout d'une ligne pour tester si tout fonctionne
+	
 	public Eleve(String pnom, float pnote){
 		this.nom = pnom;
 		this.note = pnote;
